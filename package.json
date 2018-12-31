@@ -1,0 +1,47 @@
+{
+  "name": "fireworks-2019",
+  "version": "1.0.0",
+  "description": "Fireworks-New-Year-2019",
+  "main": "index.js",
+  "directories": {
+    "example": "example",
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./app/index.js"
+  },
+  "dependencies": {
+    "chalk": "^2.4.1",
+    "clear": "^0.1.0",
+    "clui": "^0.3.6",
+    "color-convert": "0.3.x",
+    "configstore": "^4.0.0",
+    "countdown.to": "^0.1.6",
+    "figlet": "^1.2.1",
+    "inquirer": "^6.2.1",
+    "lodash": "^4.17.11",
+    "minimist": "^1.2.0",
+    "open-browser": "^3.6.0",
+    "open-browsers": "^1.1.1"
+  },
+  "devDependencies": {
+    "hapi": "6.x.x",
+    "hoek": "2.x.x",
+    "lab": "1.x.x",
+    "lame": "1.x.x",
+    "open-browser-webpack-plugin": "0.0.5",
+    "speaker": "0.2.x",
+    "tessel": "0.3.x"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Taufik-THD/Fireworks-2019.git"
+  },
+  "author": "Taufik-THD",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Taufik-THD/Fireworks-2019/issues"
+  },
+  "homepage": "https://github.com/Taufik-THD/Fireworks-2019#readme"
+}
